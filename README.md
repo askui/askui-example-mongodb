@@ -9,7 +9,7 @@ npm install
 
 ## Configure
 
-Set the following environment variables to configure the example. The `ASKUI_WORKSPACE_ID` and `ASKUI_TOKEN` are required to connect to the askui services. Read at https://docs.askui.com/docs/general/Getting%20Started/getting-started#access-token how to get them. The `MONGO_URI` and `MONGO_DB_NAME` are optional. If they are not provided, an empty in-memory database will be used instead of connecting to a real MongoDB database.
+Set the following environment variables to configure the example. The `ASKUI_WORKSPACE_ID` and `ASKUI_TOKEN` are required to connect to the askui services. Read at our docs on how to get them: [Windows](https://docs.askui.com/docs/general/Getting%20Started/Installing%20AskUI/getting-started#step-4-connect-your-askui-account) [Linux](https://docs.askui.com/docs/general/Getting%20Started/Installing%20AskUI/getting-started-linux#access-token), [macOS](https://docs.askui.com/docs/general/Getting%20Started/Installing%20AskUI/getting-started-macos#access-token). The `MONGO_URI` and `MONGO_DB_NAME` are optional. If they are not provided, an empty in-memory database will be used instead of connecting to a real MongoDB database.
 
 ```bash
 export ASKUI_WORKSPACE_ID=
