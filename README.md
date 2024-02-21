@@ -1,4 +1,4 @@
-# askui-mongodb-example
+# askui-example-mongodb
 Simple example of using askui together with mongodb as the source for test data. In this example, askui is used to click on the last two buttons of the quickstart guide on https://app.askui.com. The data of the buttons is saved to and retrieved from a MongoDB database.
 
 ## Install
